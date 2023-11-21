@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<catalog>
+    <city>
+        <houseNumber>15</houseNumber>
+        <name>Chernihiv</name>
+        <size>big</size>
+        <street>Pavlova</street>
+    </city>
+    <city>
+        <houseNumber>30</houseNumber>
+        <name>Kiev</name>
+        <size>big</size>
+        <street>Lesi Ukrainki</street>
+    </city>
+</catalog>
